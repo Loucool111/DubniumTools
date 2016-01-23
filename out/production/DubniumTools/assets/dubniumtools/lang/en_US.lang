@@ -1,0 +1,20 @@
+#Creative tab
+itemGroup.dubniumtools=Dubnium Tools
+
+#Items
+item.dubniumtools:ingotDubnium.name=Dubnium Ingot
+
+item.dubniumtools:pickaxeDubnium.name=Dubnium Pickaxe
+item.dubniumtools:swordDubnium.name=Dubnium Sword
+item.dubniumtools:spadeDubnium.name=Dubnium Shovel
+item.dubniumtools:hoeDubnium.name=Dubnium Hoe
+item.dubniumtools:axeDubnium.name=Dubnium Axe
+
+item.dubniumtools:helmetDubnium.name=Dubnium Helmet
+item.dubniumtools:chestplateDubnium.name=Dubnium Chestplate
+item.dubniumtools:pantsDubnium.name=Dubnium Leggings
+item.dubniumtools:bootsDubnium.name=Dubnium Boots
+
+#Blocks
+tile.dubniumtools:blockDubnium.name=Dubnium Block
+tile.dubniumtools:oreDubnium.name=Dubnium Ore
